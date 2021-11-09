@@ -8,3 +8,8 @@ Author page : Dhanalakshmi
 4. Attachements (Image, Audio, video) code
 
 5. Hiding the last seen
+
+
+6. Adding the audio call feature
+
+7. adding the video call feature
